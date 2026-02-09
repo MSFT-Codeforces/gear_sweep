@@ -1,0 +1,15 @@
+{
+  "original": "https://www.codeforces.com/problemset/problem/1692/G",
+  "title": "Gear Sweep",
+  "tags": [
+    "Arrays and Lists",
+    "Sorting Algorithms",
+    "Basic Data Structures",
+    "Trees and Tries",
+    "Algorithm Complexity and Big O Notation"
+  ],
+  "model_breaking": true,
+  "time": 4,
+  "space": 64,
+  "github_link": "https://github.com/MSFT-Codeforces/gear_sweep"
+}
